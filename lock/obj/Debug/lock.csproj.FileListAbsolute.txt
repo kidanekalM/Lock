@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\bin\Debug\@lock.exe.config
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\bin\Debug\@lock.exe
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\bin\Debug\@lock.pdb
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.Form1.resources
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.Properties.Resources.resources
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\lock.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\@lock.exe
+C:\Users\hp\Desktop\New folder\code\C#\lock\lock\obj\Debug\@lock.pdb

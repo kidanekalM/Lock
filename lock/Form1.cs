@@ -15,7 +15,7 @@ namespace @lock
     public partial class Form1 : Form
     {
         private int trial = 0;
-        private string paswd = "";
+        private string paswd = "abc";
         private string idea;
         private string data;
         private FileStream filestream;
@@ -109,10 +109,11 @@ namespace @lock
                     if (txt_DataInOut.Text != data && txt_DataInOut.Text == "")
                         strWriter.Write(scramble(data, toIntArray(pwd)));
                     else
-                        strWriter.Write(scramble(txt_DataInOut.Text, toIntArray(pwd)));
+                        strWriter.Write(txt_DataInOut.Text);
                 } catch(Exception ex)
                 {
                     MessageBox.Show(ex.Message);
+
                 }
             }
             catch(Exception ex)
